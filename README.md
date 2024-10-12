@@ -1,1 +1,2 @@
-# Materi-Kaderisasi-Pertemuan-6
+1. nametag
+2. slayer
